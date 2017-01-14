@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:0,Эфирный: Sci-Fi
+http://178.124.183.10/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:0,Эфирный: TNT
+http://31.185.0.20:8080/udp/239.195.32.11:1234
