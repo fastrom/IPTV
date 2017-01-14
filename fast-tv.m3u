@@ -1,5 +1,160 @@
 #EXTM3U
-#EXTINF:0,Эфирный: Sci-Fi
+#EXTM3U
+#EXTINF:0,Беларусь 1
+http://178.124.183.10/hls/CH_BELARUS1/variant.m3u8?version=2
+#EXTINF:0,Беларусь 2
+http://178.124.183.10/hls/CH_BELARUS2/variant.m3u8?version=2
+#EXTINF:0,Беларусь 3
+http://178.124.183.10/hls/CH_BELARUS3/variant.m3u8?version=2
+#EXTINF:0,Беларусь 5
+http://178.124.183.10/hls/CH_BELARUS5/variant.m3u8?version=2
+#EXTINF:0,ОНТ
+http://178.124.183.10/hls/CH_ONT/variant.m3u8?version=2
+#EXTINF:0,СТВ
+http://178.124.183.10/hls/CH_STV/variant.m3u8?version=2
+#EXTINF:0,РТР-Беларусь
+http://178.124.183.10/hls/CH_RTRBELARUS/variant.m3u8?version=2
+#EXTINF:0,НТВ Беларусь
+http://178.124.183.10/hls/CH_NTVBELARUS/variant.m3u8?version=2
+#EXTINF:0,Мир
+http://178.124.183.10/hls/CH_MIR/variant.m3u8?version=2
+#EXTINF:0,ВТВ
+http://178.124.183.10/hls/CH_VTV/variant.m3u8?version=2
+#EXTINF:0,8 канал
+http://178.124.183.10/hls/CH_8CHANNEL/variant.m3u8?version=2
+#EXTINF:0,ТНТ int.
+http://178.124.183.10/hls/CH_TNTINT/variant.m3u8?version=2
+#EXTINF:0,Euronews
+http://178.124.183.10/hls/CH_EURONEWS/variant.m3u8?version=2
+#EXTINF:0,Бел Бизес Ченел
+http://178.124.183.10/hls/CH_BBK/variant.m3u8?version=2
+#EXTINF:0,Наш футбол
+http://178.124.183.10/hls/CH_NASHFUTBOL/variant.m3u8?version=2
+#EXTINF:0,Сентана Спорт
+http://178.124.183.10/hls/CH_SETANTASPORT/variant.m3u8?version=2
+#EXTINF:0,Сентана Спорт +
+http://178.124.183.10/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=2
+#EXTINF:0,КХЛ
+http://178.124.183.10/hls/CH_KHL/variant.m3u8?version=2
+#EXTINF:0,Русский Экстрим
+http://178.124.183.10/hls/CH_RUSEXTREME/variant.m3u8?version=2
+#EXTINF:0,Travel+Adventure HD
+http://178.124.183.10/hls/CH_TRAVELHD/variant.m3u8?version=2
+#EXTINF:0,Oхотник и Рыболов HD
+http://178.124.183.10/hls/CH_HDOHOTNIK/variant.m3u8?version=2
+#EXTINF:0,Охота и Рыбалка
+http://178.124.183.10/hls/CH_OHOTAIRYBALKA/variant.m3u8?version=2
+#EXTINF:0,Усадьба
+http://178.124.183.10/hls/CH_USADBA/variant.m3u8?version=2
+#EXTINF:0,Кухня ТВ
+http://178.124.183.10/hls/CH_KUHNYATV/variant.m3u8?version=2
+#EXTINF:0,HD Life
+http://178.124.183.10/hls/CH_HDLIFE/variant.m3u8?version=2
+#EXTINF:0,Совершенно Секретно
+http://178.124.183.10/hls/CH_SOVERSHENNOSEKRETNO/variant.m3u8?version=2
+#EXTINF:0,Оружие
+http://178.124.183.10/hls/CH_ORUZIE/variant.m3u8?version=2
+#EXTINF:0,Galaxy
+http://178.124.183.10/hls/CH_GALAXY/variant.m3u8?version=2
+#EXTINF:0,Nano TV
+http://178.124.183.10/hls/CH_NANOTV/variant.m3u8?version=2
+#EXTINF:0,Драйв
+http://178.124.183.10/hls/CH_DRIVE/variant.m3u8?version=2
+#EXTINF:0,RTVI
+http://178.124.183.10/hls/CH_RTVI/variant.m3u8?version=2
+#EXTINF:0,Россия К
+http://178.124.183.10/hls/CH_ROSSIAK/variant.m3u8?version=2
+#EXTINF:0,Союз
+http://178.124.183.10/hls/CH_SOYUZ/variant.m3u8?version=2
+#EXTINF:0,ТВ 3
+http://178.124.183.10/hls/CH_TV3/variant.m3u8?version=2
+#EXTINF:0,ТВ 3 Россия
+http://178.124.183.10/hls/CH_TV3RUS/variant.m3u8?version=2
+#EXTINF:0,TV1000
+http://178.124.183.10/hls/CH_TV1000/variant.m3u8?version=2
+#EXTINF:0,TV1000 Русское кино
+http://178.124.183.10/hls/CH_TV1000RUSSKOEKINO/variant.m3u8?version=2
+#EXTINF:0,TV1000 Action
+http://178.124.183.10/hls/CH_TV1000ACTION/variant.m3u8?version=2
+#EXTINF:0,TV1000 Comedy HD
+http://178.124.183.10/hls/CH_TV1000COMEDYHD/variant.m3u8?version=2
+#EXTINF:0,Viasat History
+http://178.124.183.10/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:0,Viasat Explore
+http://178.124.183.10/hls/CH_VIASATEXPLORER/variant.m3u8?version=2
+#EXTINF:0,Viasat Nature
+http://178.124.183.10/hls/CH_VIASATNATURE/variant.m3u8?version=2
+#EXTINF:0,Viasat History/Nature HD
+http://178.124.183.10/hls/CH_VIASATNATUREHD/variant.m3u8?version=2
+#EXTINF:0,Первый музыкальный
+http://178.124.183.10/hls/CH_1MUZ/variant.m3u8?version=2
+#EXTINF:0,History
+http://178.124.183.10/hls/CH_HISTORY/variant.m3u8?version=2
+#EXTINF:0,Наше Кино
+http://178.124.183.10/hls/CH_NTVPLUSNASHEKINO/variant.m3u8?version=2
+#EXTINF:0,Любимое Кино
+http://178.124.183.10/hls/CH_NASHEKINO/variant.m3u8?version=2
+#EXTINF:0,Наше Новое Кино
+http://178.124.183.10/hls/CH_NASHENOVOEKINO/variant.m3u8?version=2
+#EXTINF:0,Кинопремьера
+http://178.124.183.10/hls/CH_KINOPREMERA/variant.m3u8?version=2
+#EXTINF:0,Еврокино
+http://178.124.183.10/hls/CH_EVROKINO/variant.m3u8?version=2
+#EXTINF:0,ТВ 21
+http://178.124.183.10/hls/CH_TV21/variant.m3u8?version=2
+#EXTINF:0,КиноМикс
+http://178.124.183.10/hls/CH_KINOPLUS/variant.m3u8?version=2
+#EXTINF:0,Кинохит
+http://178.124.183.10/hls/CH_KINOHIT/variant.m3u8?version=2
+#EXTINF:0,Киносемья
+http://178.124.183.10/hls/CH_KINOSEMIA/variant.m3u8?version=2
+#EXTINF:0,Русский Иллюзион
+http://178.124.183.10/hls/CH_RUSSKIJILLUZION/variant.m3u8?version=2
+#EXTINF:0,Иллюзион +
+http://178.124.183.10/hls/CH_ILLUZIONPLUS/variant.m3u8?version=2
+#EXTINF:0,Мужское кино
+http://178.124.183.10/hls/CH_MUZKOEKINO/variant.m3u8?version=2
+#EXTINF:0,Индийское кино
+http://178.124.183.10/hls/CH_INDIYATV/variant.m3u8?version=2
+#EXTINF:0,Sony SciFi
 http://178.124.183.10/hls/CH_SONYSCIFI/variant.m3u8?version=2
+#EXTINF:0,Set HD
+http://178.124.183.10/hls/CH_SETHD/variant.m3u8?version=2
+#EXTINF:0,Amedia
+http://178.124.183.10/hls/CH_AMEDIA/variant.m3u8?version=2
+#EXTINF:0,Amedia 2
+http://178.124.183.10/hls/CH_AMEDIA2/variant.m3u8?version=2
+#EXTINF:0,Amedia Hit
+http://178.124.183.10/hls/CH_AMEDIAHIT/variant.m3u8?version=2
+#EXTINF:0,Amedia Premium
+http://178.124.183.10/hls/CH_AMEDIAPREMIUM/variant.m3u8?version=2
+#EXTINF:0,RU TV
+http://178.124.183.10/hls/CH_RUTV/variant.m3u8?version=2
+#EXTINF:0,Шансон ТВ
+http://178.124.183.10/hls/CH_SHANSON/variant.m3u8?version=2
+#EXTINF:0,Europa Plus TV
+http://178.124.183.10/hls/CH_EUROPAPLUSTV/variant.m3u8?version=2
+#EXTINF:0,1 HD
+http://178.124.183.10/hls/CH_1HD/variant.m3u8?version=2
+#EXTINF:0,STV
+http://178.124.183.10/hls/CH_STVEN/variant.m3u8?version=2
+#EXTINF:0, Детский Мир/Телеклуб
+http://178.124.183.10/hls/CH_DETSKIMIR/variant.m3u8?version=2
+#EXTINF:0,Детский
+http://178.124.183.10/hls/CH_DETSKII/variant.m3u8?version=2
+#EXTINF:0,Мультимания
+http://178.124.183.10/hls/CH_MULTIMANIYA/variant.m3u8?version=2
+#EXTINF:0,2x2
+http://178.124.183.10/hls/CH_2X2/variant.m3u8?version=2
+#EXTINF:0,Эгоист ТВ
+http://178.124.183.10/hls/CH_EGOIST/variant.m3u8?version=2
+#EXTINF:0,Nuart TV
+http://178.124.183.10/hls/CH_NYARTTV/variant.m3u8?version=2
+#EXTINF:0,Русская Ночь
+http://178.124.183.10/hls/CH_RUSSKAYANOCH/variant.m3u8?version=2
+#EXTINF:0,Blue Hustler
+http://178.124.183.10/hls/CH_BLUEHUSTLER/variant.m3u8?version=2
+#EXTINF:0,Дома ТВ
+http://178.124.183.10/hls/CH_TELEMAGAZIN/variant.m3u8?version=2
 #EXTINF:0,Эфирный: TNT
 http://31.185.0.20:8080/udp/239.195.32.11:1234
